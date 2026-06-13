@@ -82,6 +82,7 @@ export default function RootLayout({
         <link rel="canonical" href={siteUrl} />
         <meta name="language" content="Russian" />
         <meta name="revisit-after" content="7 days" />
+        <meta name="yandex-verification" content="63a1f4862a5d3798" />
                         <script
  dangerouslySetInnerHTML={{
    __html: `
